@@ -62,6 +62,14 @@ Route (Unit in average travel time):
 > Greedy: ~100000 sec <br/>
 > Optimized: ~92000 sec <br/>
 
+## Contribution
+| Team Member    | Line Inserted   | Line Deleted   | Numbers of Commits   |
+| :-------------:| :-------------: | :------------: | :------------------: |
+| Tian Li        |     20514       |     10830      |            104       |
+| Daixin Tian    |      6978       |     662        |            83        |
+| Xingyu Song    |      3995       |     1588       |            102       |
+
+
 ## Conclusion
 This project teaches me and my teammates a lot. Not only how to code more efficiently, how to improve code style and commenting, but also how to communicate ideas and coding collaboratively. Moreover, it teaches us to start early and not to procrastinate. After completing the project, my teammates and I felt so proud of ourselves as it is such a big project for us at the time. In fact, this is the first actually project in our lives. <br/>
 
