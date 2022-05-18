@@ -68,4 +68,4 @@ This project teaches me and my teammates a lot. Not only how to code more effici
 Though there was things we could've done better, I am truly satisfied and happy for what we've done and grateful for my teammates. Happy coding!
 
 ## Contact ME
-If you are interested in the source code, please do contact me through my email <kevintian.li@mail.utoronto.ca> or <kevin.li20021106@gmail.com>. You have to prove that you are not a current ECE297 student, if you are, try to think and code it yourself as it will be a great practice to improve your software skills; if you have any questions, feel free to contact me thought!
+If you are interested in the source code, please do contact me through my email <kevintian.li@mail.utoronto.ca> or <kevin.li20021106@gmail.com>. You have to prove that you are not a current ECE297 student, if you are, try to think and code it yourself as it will be a great practice to improve your software skills; though if you have any questions, feel free to share it with me!
