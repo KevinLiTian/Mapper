@@ -60,9 +60,12 @@ This is a variant of the Travelling Salesman Problem (TSP) which is a computatio
 Route (Unit in average travel time):
 > Random: ~400000 sec <br/>
 > Greedy: ~100000 sec <br/>
-> Optimized: ~93000 sec <br/>
+> Optimized: ~92000 sec <br/>
 
 ## Conclusion
 This project teaches me and my teammates a lot. Not only how to code more efficiently, how to improve code style and commenting, but also how to communicate ideas and coding collaboratively. Moreover, it teaches us to start early and not to procrastinate. After completing the project, my teammates and I felt so proud of ourselves as it is such a big project for us at the time. In fact, this is the first actually project in our lives. <br/>
 
 Though there was things we could've done better, I am truly satisfied and happy for what we've done and grateful for my teammates. Happy coding!
+
+## Contact ME
+If you are interested in the source code, please do contact me through my email <kevintian.li@mail.utoronto.ca> or <kevin.li20021106@gmail.com>. You have to prove that you are not a current ECE297 student, if you are, try to think and code it yourself as it will be a great practice to improve your software skills; if you have any questions, feel free to contact me thought!
