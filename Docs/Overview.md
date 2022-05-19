@@ -68,4 +68,6 @@ Route (Unit in average travel time):
 ### Note
 m1-4_helpers.h are some header files to help declaring custom functions/data structures and define constants for corresponding milestones
 
+If you are interested in the original handouts of the milestones, contact me for access to the private repo which contains the handouts and also source codes.
+
 
