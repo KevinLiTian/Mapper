@@ -1,5 +1,5 @@
 # Overview
-The work during the semester is being divided into 4 milestones, written mainly in libstreetmap/src directory. Here's the overview and insight in a software engineering perspective of the milestones and a quick summary of the content in each of the source code files ("Milestone" will be abbreviated as 'M')
+The work during the semester is being divided into 4 milestones, written mainly in libstreetmap/src directory. There are also a communication part which includes a written document (WD) and two oral presentations (OP). Here's the overview and insight in a software engineering perspective of the milestones and a quick summary of the content in each of the source code files and also brief explanation on WD and OP
 
 ## M1 - Efficient APIs
 > “There is more to life than increasing its speed." –Mahatma Gandhi
@@ -68,6 +68,17 @@ Route (Unit in average travel time):
 ### Note
 m1-4_helpers.h are some header files to help declaring custom functions/data structures and define constants for corresponding milestones
 
-If you are interested in the original handouts of the milestones, contact me for access to the private repo which contains the handouts and also source codes.
+## WD
+The written document is written one week before M2 as a proposal to what we will be implementing in the GUI. We spent a whole week doing researches and writing drafts, and editing. Our proposal was one of the best proposals among the entire course. Thanks to our Communication Instructor (CI) Lucas Wilson, giving us opinions patiently. We improve our professional writing skills a lot as engineers.
+
+## OP1
+This presentation was after the first two milestones, when we had our high-level API and the basic GUI. We introduced to our CI what we achived and why are they useful for users. 
+- Link to slides: https://docs.google.com/presentation/d/17uaVGfswNP8pdmIhD9UwKfx8kp-AMXZtYMQTvJ3Rp-Q/edit?usp=sharing
 
 
+## OP2
+This presentation was after all four milestones, as a final examination, when we completed our project. We introduced not only what did we do, but also how did we achieve them, both technical side and in a non-technical perspective.
+- Link to slides: https://docs.google.com/presentation/d/12W4h1JvxGXaRVg4Kg-x0Qi6BOFLAstiPD4dy4iKiv30/edit?usp=sharing
+
+## If You are Interested
+If you are interested in the original copies of the handouts (Milestones, WD, OPs) and our WD or the source codes, please contact me using emails in the README.md of the parent directory
