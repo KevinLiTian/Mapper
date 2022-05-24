@@ -4,7 +4,7 @@ The work during the semester is being divided into 4 milestones 1 written docume
 Here's the overview and insight in a software engineering perspective of the milestones and a quick summary of the content in each of the source code files, and also a brief explanation on the written document and the two oral presentations.
 
 ## M1 - Efficient APIs
-> “There is more to life than increasing its speed." –Mahatma Gandhi
+> “There is more to life than increasing its speed." – Mahatma Gandhi
 
 An efficient application programming interface (API) is essential for a successful software engineering project, it makes developments easier and improve the responsiveness of the application.<br/>
 
@@ -18,7 +18,7 @@ In this source code file, we implemented all the precomputations and any prepera
 * Error Free: We also passed all the test cases including private ones, more extreme and "corner", set by the course staff aiming to test exaustively to make sure our high-level API has no problem at all
 
 ## M2 - Visualizing an Interactive Map
-> “The real voyage of discovery consists not in seeking new landscapes, but in having new eyes." –Marcel Proust
+> “The real voyage of discovery consists not in seeking new landscapes, but in having new eyes." – Marcel Proust
 
 The users are seeking for an interactive graphics interface, and this milestone provides them with one. In M2, we designed and implemented the graphics user interface (GUI) for our mapping software. The course staff provided us with the "EZGL" library and also with the gtk library, also a header file for M2 (m2.h). <br/>
 
@@ -47,7 +47,7 @@ In this source code file, we implemented the path finding algorithm and some rel
 * Error Free: We passed all tests even some extremely rare cases that can occur on maps since our algorithm considered all of them and handled them perfectly. 
 
 ## M4 - Traveling Courier
-> “A person who never made a mistake never tried anything new.” –Albert Einstein
+> “A person who never made a mistake never tried anything new.” – Albert Einstein
 
 In the previous milestone, pathfinding, there's only one starting intersection and one destination intersection. But what if there's a lot of starting points and destinations? For example, a courier can start at any truck depot in the city and go to pickup package 1 then go to drop off package 1. What if there's hundreds of pickups and drop offs?<br/>
 
