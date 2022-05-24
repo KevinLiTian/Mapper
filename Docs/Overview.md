@@ -1,5 +1,7 @@
 # Overview
-The work during the semester is being divided into 4 milestones, written mainly in libstreetmap/src directory. There are also a communication part which includes a written document (WD) and two oral presentations (OP). Here's the overview and insight in a software engineering perspective of the milestones and a quick summary of the content in each of the source code files and also brief explanation on WD and OP
+The work during the semester is being divided into 4 milestones 1 written document (WD) and 2 oral presentations (OP). The milestones are written mainly in the libstreetmap/src directory. <br/>
+
+Here's the overview and insight in a software engineering perspective of the milestones and a quick summary of the content in each of the source code files, and also a brief explanation on the written document and the two oral presentations.
 
 ## M1 - Efficient APIs
 > “There is more to life than increasing its speed." –Mahatma Gandhi
@@ -51,6 +53,8 @@ In the previous milestone, pathfinding, there's only one starting intersection a
 
 This is a variant of the Travelling Salesman Problem (TSP) which is a computationally hard (NP) problem, we cannnot compute all the possibilities and find the best one. Therefore we designed a customized algorithm to try to find the best route. We did a precomputation using multi-destination Dijkstra's algorithm to compute the travel time between each of the two interested points (depot/pickup/dropoff). Then use the greedy algorithm as a starting point, using random optimization techniques such as 2-opt to improve the route. We intended to use simulated annealing but it was close to the deadline so we did not include it. <br/>
 
+We utilized multi-threading using the openMP library in some independnet for loops to speed up the process. By doing this, we are able to test more random local changes to get better routes.
+
 ##### m4.cpp
 In this source code file, we implemented a high-level function and several functions it calls such as precomputation, greedy algorithm and optimization.<br/> 
 
@@ -66,17 +70,19 @@ Route (Unit in average travel time):
 > Optimized: ~92000 sec <br/>
 
 ### Note
-m1-4_helpers.h are some header files to help declaring custom functions/data structures and define constants for corresponding milestones
+m1-4_helpers.h are some header files to help declaring custom functions/data structures and define constants for corresponding milestones<br/>
 
-## WD
+structs.h is a header file containing all of the useful structs for all the milestones, which struct is used for which source file and what functionality if clearly indicated by thhe commenting in the header file
+
+## Written Document
 The written document is written one week before M2 as a proposal to what we will be implementing in the GUI. We spent a whole week doing researches and writing drafts, and editing. Our proposal was one of the best proposals among the entire course. Thanks to our Communication Instructor (CI) Lucas Wilson, giving us opinions patiently. We improved our professional writing skills a lot as engineers.
 
-## OP1
+## Oral Presentation 1
 This presentation was after the first two milestones, when we had our high-level API and the basic GUI ready for demonstration. We introduced to our CI what we achived and why are they useful for users. 
 - Link to slides: https://docs.google.com/presentation/d/17uaVGfswNP8pdmIhD9UwKfx8kp-AMXZtYMQTvJ3Rp-Q/edit?usp=sharing
 
 
-## OP2
+## Oral Presentation 2
 This presentation was after all four milestones, as a final examination, when we completed our project. We introduced not only what did we do, but also how did we achieve them, both the technical/coding side and in a non-technical perspective.
 - Link to slides: https://docs.google.com/presentation/d/12W4h1JvxGXaRVg4Kg-x0Qi6BOFLAstiPD4dy4iKiv30/edit?usp=sharing
 
