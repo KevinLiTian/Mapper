@@ -1,6 +1,5 @@
 # Overview & Demonstration
-In the second year of studying at the University of Toronto St.George campus, ECE297 is a course that's very similar to software engineering projects in the industry.
-This course aims for students to learn collaborative coding with Git and also be more proficient in c++ programming. The project of this course is a mapping software.<br/>
+In the second year of Electrical & Computer Engineering at the University of Toronto St.George campus, ECE297 is a course that's very similar to software engineering projects in the industry.This course aims for students to learn collaborative coding with Git and also be more proficient in c++ programming. The project of this course is a mapping software.<br/>
 
 With the assistance by my teammates Xingyu (Ariel) Song <xingyu.song@mail.utoronto.ca> and Daixin (Ali) Tian <daixin.tian@mail.utoronto.ca>, I completed this project with a super usable and responsive mapping software. Here are some main features of the mapper.<br/>
 
