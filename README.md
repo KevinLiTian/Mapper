@@ -4,15 +4,15 @@ This course aims for students to learn collaborative coding with Git and also be
 
 With the assistance by my teammates Xingyu (Ariel) Song <xingyu.song@mail.utoronto.ca> and Daixin (Ali) Tian <daixin.tian@mail.utoronto.ca>, I completed this project with a super usable and responsive mapping software. Here are some main features of the mapper.<br/>
 
-## Zoom-In & Zoom-Out
-Our mapping software supports zoom-in and zoom-out using either the mouse wheel or the direction pad on the right side of the mapper.<br/>
+## Moving
+Our mapping software supports zoom-in and zoom-out using either the mouse wheel or the "Zoom In" and "Zoom Out" buttons on the right side of the mapper. Users can also move the map by either dragging the mouse or using the direction pad on the mapper.<br/>
+
 The detailedness is automatically adjusted base on the zoom in level as we don't want to overwhelm the users with clustered information when the map is zoomed out.
 ##### Video Demo
 https://user-images.githubusercontent.com/99038613/169093331-e83db4a9-8a5e-410e-ac05-a502495b2027.mp4
 
 ## Night Mode
-Night mode is also supported. We designed two set of colours, one for day mode and another for night mode.<br/>
-We use RGB(0-255, 0-255, 0-255) to set colours for everything on the map.
+Night mode is also supported. We designed two set of colours, one for day mode and another for night mode.
 ##### Video Demo
 https://user-images.githubusercontent.com/99038613/169098568-a00f306b-70b1-4836-b72f-032a91f4dc2a.mp4
 
