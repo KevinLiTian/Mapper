@@ -69,15 +69,15 @@ Route (Unit in average travel time):
 m1-4_helpers.h are some header files to help declaring custom functions/data structures and define constants for corresponding milestones
 
 ## WD
-The written document is written one week before M2 as a proposal to what we will be implementing in the GUI. We spent a whole week doing researches and writing drafts, and editing. Our proposal was one of the best proposals among the entire course. Thanks to our Communication Instructor (CI) Lucas Wilson, giving us opinions patiently. We improve our professional writing skills a lot as engineers.
+The written document is written one week before M2 as a proposal to what we will be implementing in the GUI. We spent a whole week doing researches and writing drafts, and editing. Our proposal was one of the best proposals among the entire course. Thanks to our Communication Instructor (CI) Lucas Wilson, giving us opinions patiently. We improved our professional writing skills a lot as engineers.
 
 ## OP1
-This presentation was after the first two milestones, when we had our high-level API and the basic GUI. We introduced to our CI what we achived and why are they useful for users. 
+This presentation was after the first two milestones, when we had our high-level API and the basic GUI ready for demonstration. We introduced to our CI what we achived and why are they useful for users. 
 - Link to slides: https://docs.google.com/presentation/d/17uaVGfswNP8pdmIhD9UwKfx8kp-AMXZtYMQTvJ3Rp-Q/edit?usp=sharing
 
 
 ## OP2
-This presentation was after all four milestones, as a final examination, when we completed our project. We introduced not only what did we do, but also how did we achieve them, both technical side and in a non-technical perspective.
+This presentation was after all four milestones, as a final examination, when we completed our project. We introduced not only what did we do, but also how did we achieve them, both the technical/coding side and in a non-technical perspective.
 - Link to slides: https://docs.google.com/presentation/d/12W4h1JvxGXaRVg4Kg-x0Qi6BOFLAstiPD4dy4iKiv30/edit?usp=sharing
 
 ## If You are Interested
