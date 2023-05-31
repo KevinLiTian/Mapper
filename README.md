@@ -8,7 +8,7 @@ Our mapping software supports zoom-in and zoom-out using either the mouse wheel 
 
 The detailedness is automatically adjusted base on the zoom in level as we don't want to overwhelm the users with clustered information when the map is zoomed out.
 ##### Video Demo
-https://user-images.githubusercontent.com/99038613/169093331-e83db4a9-8a5e-410e-ac05-a502495b2027.mp4
+[![Zooming](https://img.youtube.com/vi/CUMcVCQBDgQ/0.jpg)](https://www.youtube.com/watch?v=CUMcVCQBDgQ)
 
 ## Night Mode
 Night mode is also supported. We designed two set of colours, one for day mode and another for night mode.
