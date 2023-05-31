@@ -13,14 +13,14 @@ The detailedness is automatically adjusted base on the zoom in level as we don't
 ## Night Mode
 Night mode is also supported. We designed two set of colours, one for day mode and another for night mode.
 ##### Video Demo
-https://user-images.githubusercontent.com/99038613/169098568-a00f306b-70b1-4836-b72f-032a91f4dc2a.mp4
+[![Night Mode](https://img.youtube.com/vi/Kwbs6j4ey2Q/0.jpg)](https://www.youtube.com/watch?v=Kwbs6j4ey2Q)
 
 ## Search Bar
 We implemented a search bar for the mapping software. There are two street name entries, if none or one of them is entered and searched, there will be a gentle reminder message in the bottem left corner. The search bar supports partial street name entries such as "Yon" for "Yonge" and also auto adjust regardless of upper or lower cases such as "bLoor" for "Bloor". It also ignores spaces before or in the middle of the street names such as "  Bl  oor" for "Bloor".<br/>
 
 Once two street names are entered and searched, the intersection of two streets will be highlighted with an highlighting icon and the map will automatically adjust to a level that is comfortable for users to look at the intersection and its surroundings.<br/>
 ##### Video Demo
-https://user-images.githubusercontent.com/99038613/169096278-cec04515-f38d-49dd-beca-ec04168759d5.mp4
+[![Search Bar](https://img.youtube.com/vi/6iNrTLKj9qk/0.jpg)](https://www.youtube.com/watch?v=6iNrTLKj9qk)
 
 ## Feature & Point of Interests
 Our mapper also shows feature names and also point of interests names with icons. Point of interests are certain types of buildings and infrastructures including restaurants, libraries, hospitals, banks, etc.
