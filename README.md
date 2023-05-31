@@ -25,17 +25,17 @@ Once two street names are entered and searched, the intersection of two streets 
 ## Feature & Point of Interests
 Our mapper also shows feature names and also point of interests names with icons. Point of interests are certain types of buildings and infrastructures including restaurants, libraries, hospitals, banks, etc.
 ##### Video Demo
-https://user-images.githubusercontent.com/99038613/169092699-345dbdb1-0e81-4b54-95c9-31a41c227cc9.mp4
+[![Feature & Point of Interests](https://img.youtube.com/vi/q3wfqddFc9g/0.jpg)](https://www.youtube.com/watch?v=q3wfqddFc9g)
 
 ## Language Support
 Since the users can have any cultural backgrounds, we added in some language supports for Mandarin, Japanese, Persian, etc. 
 ##### Video Demo
-https://user-images.githubusercontent.com/99038613/169098466-60d5fced-64b7-4a03-aaee-1b0557c22d9a.mp4
+[![Language Support](https://img.youtube.com/vi/uVOgD0SkeRs/0.jpg)](https://www.youtube.com/watch?v=uVOgD0SkeRs)
 
 ## Multi-City Support
 Our map supports a number cities for instance Toronto, Canada as default, New York, USA, Beijing, China, etc.
 ##### Video Demo
-https://user-images.githubusercontent.com/99038613/169098545-ec594927-7f52-44b7-8f63-d69b0ee93001.mp4
+[![Multi-City Support](https://img.youtube.com/vi/cj8AsLfwdG8/0.jpg)](https://www.youtube.com/watch?v=cj8AsLfwdG8)
 
 ## Pathfinding
 Pathfinding feature is also included in our mapping software. The users can select two intersections on the map and use the nagigate path button to find a guaranteed shortest path between the two intersections. We also have a animation for the direction of travelling. The users can reverse the path, and reverse it again; they can clear the path, or clear everything using the clear highlights button.<br/>
@@ -43,13 +43,13 @@ Pathfinding feature is also included in our mapping software. The users can sele
 We started with Dijkstra's algorithm and then adding some heuristics to improve it to A Star Algorithm.
 Visualizations of the two algorithms are demonstrated below.<br/>
 ##### Video Demo
-https://user-images.githubusercontent.com/99038613/169098618-429099d9-8448-4f19-92ca-eb0dcb4b9844.mp4
+[![Pathfinding](https://img.youtube.com/vi/1EWTIrlPSDU/0.jpg)](https://www.youtube.com/watch?v=1EWTIrlPSDU)
 
 ##### Dijkstra's Algorithm
-https://user-images.githubusercontent.com/99038613/169098940-589cd8ad-b0d4-4f67-8f97-eedfbb09b2b1.mp4
+[![Dijkstra's Algorithm](https://img.youtube.com/vi/KiSdNFFVk_8/0.jpg)](https://www.youtube.com/watch?v=KiSdNFFVk_8)
 
 ##### A Star Algorithm
-https://user-images.githubusercontent.com/99038613/169098982-1b5642c2-1f71-46a4-9345-3a5eafbe2f8e.mp4
+[![A Star Algorithm](https://img.youtube.com/vi/CLjUIz-jTxM/0.jpg)](https://www.youtube.com/watch?v=CLjUIz-jTxM)
 
 ## Travelling Courier
 This part is solely algorithm so there's no video demo. In the previous part, pathfinding, there's only one starting intersection and one destination intersection. But what if there's a lot of starting points and destinations? For example, a courier can start at any truck depot in the city and go to pickup package 1 then go to drop off package 1. What if there's hundreds of pickups and drop offs?<br/>
